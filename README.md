@@ -1,7 +1,5 @@
 # Employee Management System
 
-This project is a submission for the Pertamina Developer technical test.
-
 It is a full-stack Employee Management System designed to make handling employee data a breeze. The backend is powered by Spring Boot (Java), while the frontend delivers a modern experience using Vue 3 + Vite.
 
 ## Features
